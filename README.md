@@ -1,2 +1,2 @@
 # omain_openSAP_repo
-Main repositiry for GIT WebIDE Demos
+Main repositiry for [openSAP] "http://opensap.com" GIT WebIDE Demos
